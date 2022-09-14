@@ -4,6 +4,8 @@ Datacity app is developed in Flutter for project with using Elastic Search. App 
 
 I did not use elastic_search package for flutter for now. I just send GET request to the API.
 
+P.S : I downloaded city dataset from Dtat World website
+
 You can search country 
 
 - by name.
